@@ -1,0 +1,6 @@
+﻿  20120248_bmp.cpp
+C:\Users\Admin\OneDrive - VNU-HCMUS\Code\Kỹ thuật lập trình\BT1_KTLT_BMP\Final\Source\20120248\BMP\20120248_bmp.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  functions.cpp
+C:\Users\Admin\OneDrive - VNU-HCMUS\Code\Kỹ thuật lập trình\BT1_KTLT_BMP\Final\Source\20120248\BMP\functions.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  BMP.vcxproj -> C:\Users\Admin\OneDrive - VNU-HCMUS\Code\Kỹ thuật lập trình\BT1_KTLT_BMP\Final\Source\20120248\x64\Debug\20120248.exe
